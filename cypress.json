@@ -1,0 +1,7 @@
+{
+  "testFiles": "**/*.feature",
+  "env": {
+    "url": "https://demo.nopcommerce.com/"
+  },
+  "projectId": "zw4bft"
+}
