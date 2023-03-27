@@ -1,7 +1,8 @@
 {
   "testFiles": "**/*.feature",
+  "apiUrl": "https://dummy.restapiexample.com",
   "env": {
-    "url": "https://demo.nopcommerce.com/"
+    "url": "https://demo.nopcommerce.com/"   
   },
   "projectId": "zw4bft"
 }

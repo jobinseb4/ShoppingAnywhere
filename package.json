@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "node_modules\\.bin\\cypress run",
-    "dashboardtestrecord":"npm run test -- --record --key 3210fe39-ef67-41ed-a958-9b655a40d872"
+    "dashboardtestrecord":"npm run test -- --record --key 3210fe39-ef67-41ed-a958-9b655a40d872",
+    "api-test": "npm run test -- --spec **/api_requests.feature"
   },
   "author": "",
   "license": "ISC",
